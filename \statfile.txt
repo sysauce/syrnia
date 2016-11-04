@@ -1,0 +1,34 @@
+(2094 users logged in the last 2 days) (3519 users logged in the last 7 days)<BR> (187 users joined today)  (1539 users joined the  last 7 days)<BR>Those  players have spend a total of 6610322 hours and 33 minutes playing syrnia since 11-3-2005, and got 63858859 gold.<BR>
+<h1>Joins:</h1>
+<Table border=1><tr valign=bottom align=center>
+<td> <table bgcolor=ff0000><tr width=8 height=78.666666666667>236<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=75>225<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=87>261<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=80.333333333333>241<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=76.333333333333>229<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=53.333333333333>160<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=62.333333333333>187<td></table> 
+<tr><td> 6 days ago
+<td> 5 days ago
+<td> 4 days ago
+<td> 3 days ago
+<td> 2 days ago
+<td> 1 days ago
+<td> Today
+</table><Table border=1><tr valign=bottom align=center>
+<td> <table bgcolor=ff0000><tr width=8 height=242.8>1214<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=238.2>1191<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=220.2>1101<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=322.2>1611<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=285.4>1427<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=306.4>1532<td></table> 
+<td>  <table bgcolor=ff0000><tr width=8 height=307.8>1539<td></table> 
+<tr><td> 6 weeks ago
+<td> 5 weeks ago
+<td> 4 weeks ago
+<td> 3 weeks ago
+<td> 2 weeks ago
+<td> 1 week ago
+<td> This week
+</table><h3>Top 10 active users</h3><Table>
+<tr><td>Rank<td>Seconds played<td>Player<td>%<tr><Td>1<td>65751861<Td>Namrog<td>0.28<tr><Td>2<td>64853241<Td>Kyouji<td>0.27<tr><Td>3<td>61173779<Td>koolkitty7272<td>0.26<tr><Td>4<td>55010338<Td>gurlygurl<td>0.23<tr><Td>5<td>53660439<Td>Cradle<td>0.23<tr><Td>6<td>50943109<Td>amwes1<td>0.21<tr><Td>7<td>50921812<Td>Vertumnus1<td>0.21<tr><Td>8<td>50883046<Td>MiddleGA<td>0.21<tr><Td>9<td>50852615<Td>Calydor<td>0.21<tr><Td>10<td>49868885<Td>dalefcooper<td>0.21</table>

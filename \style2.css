@@ -1,0 +1,114 @@
+/*Some def. stuff */ 
+table {
+ font-size:11px;
+ word-spacing:0.4px;
+ }
+body {
+    font-family: verdana ;
+    font-size:11px;
+    background-color:#222222;
+    color:#FFFFFF;
+    margin:0px 0px; padding:0px;    
+}
+a:link {color: #FF0000}     
+a:visited {color: #FF0000}  
+a:hover {color: #990000}   
+a:active {color: #FF0000}   
+	
+form {
+	padding-bottom:		0px;
+	padding-top:		0px;
+	margin-bottom:		0px;
+	margin-top:			0px;
+}
+	 
+.input {
+  border : 1px solid #000000;
+  background-color : #FFFFFF;
+  color : #000000;
+  font-size : 9px;
+  font-family : Verdana;
+  font-weight: bold;
+}
+.button {
+  border : 1px solid #000000;
+  font-size : 9px;
+  font-family : Verdana;
+  font-weight: bold;
+}
+
+/* Stats at right menu*/ 
+.imagestats {
+border: 1px solid #663300;
+}
+.Moven {
+  border : 0px solid #000000;
+  color : #ffffff;
+  font-size : 40px;
+  font-family : Verdana;
+  font-weight: bold;
+}
+.WorkCounter {
+  border : 0px solid #000000;
+  color : #ffffff;
+  font-size : 20px;
+  font-family : Verdana;
+  font-weight: bold;
+}
+
+
+p.worldchat { color: #ffffff;}
+p.clanchat { color: #00ff00;}
+p.tradechat { color: #eeeeee;}
+
+.SystemChat
+{
+    COLOR: #FF0000;
+}
+.RegionChat
+{
+    COLOR: #FFFFFF;
+}
+.WorldChat
+{
+    COLOR: #dcc290;
+}
+
+.SystemChat
+{
+    COLOR: #FF0000;
+}
+.WhisperChat
+{
+	color: #00FFFF;
+}
+
+.ClanChat
+{
+    COLOR: #00FF00;
+}
+.TradeChat
+{
+    COLOR: #0099CC;
+}
+.PirateChat
+{
+    COLOR: orange;
+}
+.GameHelp
+{
+    COLOR: #FFFF66;
+}
+
+/* Layout specific*/
+TD.inhoud  { background-color:#000000; }
+
+.counter {
+	text-align:center;
+	background-color: #000000;
+	border: 0 solid #000000;
+	font-size : 24px;
+	color: #ffffff;
+}
+
+

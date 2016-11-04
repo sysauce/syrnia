@@ -1,0 +1,17 @@
+
+/images/avatars/*
+	cp ../SyrniaLiveSVN/images/avatars/*.jpg images/avatars -R
+	cp ../SyrniaLiveSVN/images/avatars/*.gif images/avatars -R
+	
+/theGame/mainincludes/manual/*
+	cp ../SyrniaLiveSVN/theGame/mainincludes/manual/*.php theGame/mainincludes/manual/ -R
+
+/logs/*
+	cp ../SyrniaLiveSVN/logs/* logs/ -R
+	
+
+login data
+avatars
+chat logs
+highscore per dayX
+
